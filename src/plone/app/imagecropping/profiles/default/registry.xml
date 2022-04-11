@@ -43,7 +43,7 @@
     <value key="csscompilation">++resource++plone.app.imagecropping.static/cropper-dist/cropper.min.css</value>
     <value key="last_compilation">2021-01-29 10:00:00</value>
     <value key="compile">True</value>
-    <value key="depends">plone-logged-in</value>
+    <value key="depends">plone</value>
     <value key="expression">python: member is not None</value>
 
     <!-- these stubs are copied over from plone-logged-in and may need updates
